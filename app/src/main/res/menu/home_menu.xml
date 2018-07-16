@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/browse"
+        android:title="Browse">
+
+    </item>
+
+    <item android:id="@+id/featured"
+        android:title="Featured">
+
+    </item>
+
+    <item android:id="@+id/myorders"
+        android:title="My Orders/Messaging">
+
+    </item>
+
+    <item android:id="@+id/history"
+        android:title="History">
+
+    </item>
+
+    <item android:id="@+id/account"
+        android:title="My Account">
+
+    </item>
+
+    <item android:id="@+id/log"
+        android:title="Log Out">
+
+    </item>
+
+</menu>

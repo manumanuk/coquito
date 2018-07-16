@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Coquito</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="LogIn">Log In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="SignUpConfirmation">Thanks for signing up with Coquito! \n We sent a confirmation message to your email. \n Chefs: once you confirm your email, we can talk about getting you verified. \n Get ready to turn your passion into profession!</string>
+    <string name="title_activity_home">home</string>
+    <string name="food">food</string>
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus fringilla nunc, ac dignissim neque euismod sed. Nulla facilisi. Ut ornare purus magna, eget suscipit ante varius eu. Mauris congue quam in sapien convallis, eu eleifend dui placerat. Nulla facilisi. Donec ultricies lacus id arcu pellentesque, ultricies porttitor nisi finibus.</string>
+    <string name="John">Johnny Appleseed</string>
+    <string name="Will">Will Smith</string>
+    <string name="Donald">Donald Justin</string>
+    <string name="JohnMessage">Hi! Thanks for the response. I am available for pickup any time today. My address is 3456 Tenessee Street.</string>
+    <string name="response">...</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

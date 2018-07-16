@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aryankalia.logotest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".homescreen"
+            android:label="Home"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".signup"
+            android:label="signup"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".signupsuccess"
+            android:label="signupsuccess"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".messaging"
+            android:label="Messaging"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".cheflisting"
+            android:label="Custom Order"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".american"
+            android:label="American"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".international"
+            android:label="International"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".veg"
+            android:label="Vegitarian"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".dessert"
+            android:label="Desserts"
+            android:theme="@style/HomeTheme" />
+        <activity
+            android:name=".johnnyappleseed"
+            android:label="Johnny Appleseed"
+            android:theme="@style/HomeTheme" />
+
+        <activity android:name=".featured"
+            android:label="Featured"
+            android:theme="@style/HomeTheme">
+        </activity>
+    </application>
+
+</manifest>
